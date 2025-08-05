@@ -68,9 +68,9 @@ Ou, se estiver utilizando uma IDE como IntelliJ, Eclipse ou NetBeans, basta impo
 **Entradas:**
 - \( R_1 = 100\,\Omega \)
 - \( R_2 = 50\,\Omega \)
-- \( arepsilon_1 = 6.0\,V \)
-- \( arepsilon_2 = 5.0\,V \)
-- \( arepsilon_3 = 4.0\,V \)
+- \( ε_1 = 6.0\,V \)
+- \( ε_2 = 5.0\,V \)
+- \( ε_3 = 4.0\,V \)
 
 **Saída esperada:**
 - Corrente em \( R_1 \): -0.010 A  
