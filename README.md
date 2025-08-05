@@ -10,7 +10,7 @@ Baseado nos conceitos e exemplos do livro:
 
 **Fundamentos de Física – Volume 3: Eletromagnetismo (9ª Edição)**  
 Autores: David Halliday, Robert Resnick, Jearl Walker  
-📖 Exercício 23 do Capítulo 27 (Fig. 27-38)
+📖 Exercício 23 do Capítulo 27 (Fig. 27-35)
 
 ---
 
